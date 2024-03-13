@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Obstacle
+  - Item
+  - Ledge
+  - TutorialVoice1
+  - TutorialVoice2
+  - TutorialVoice3
+  - TutorialVoice4
+  - TutorialVoice5
+  - TutorialVoice6
+  - TutorialVoice7
+  - TutorialVoice8
+  - Trap
+  - NotAnswer
+  - GoalLine
+  - Answer
+  - VoiceTag
+  - VoiceTag2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - whatIsGround
+  - Water
+  - UI
+  - Post Processing
+  - whatIsLedge
+  - whatIsPlayer
+  - whatIsWall
+  - Post Processing
+  - Finish
+  - whatIsColorLedge
+  - whatIsSwing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
